@@ -2,7 +2,7 @@
 **Full-Stack Software Engineer | Building Robust Web Applications & Scalable Systems**
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/elias-ferhan-776091300/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkI0g6szyTjWPa8tpQZDHwA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedI" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
