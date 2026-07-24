@@ -1,16 +1,17 @@
-# Hi there, I'm [ELIAS FERHAN] 🚀
+# Hi there, I'm Elias Ferhan 🚀
 **Full-Stack Software Engineer | Building Robust Web Applications & Scalable Systems**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/elias-ferhan-776091300/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkI0g6szyTjWPa8tpQZDHwA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedI" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/elias-ferhan-776091300/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkI0g6szyTjWPa8tpQZDHwA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ELIASFERHAN1992"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:eliasferhan1992@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-eliasferhan1992.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 ## ⚡ Executive Summary
-I am a results-driven Software Engineer specializing in building highly performant web architectures, microservices, and slick user interfaces. Dedicated to writing clean, maintainable, and well-tested code while solving complex structural engineering problems.
+I am a results-driven Full-Stack Software Engineer specializing in building highly performant web architectures, microservices, and elegant user interfaces. Dedicated to writing clean, maintainable, and well-tested code that scales.
 
 - 🔭 **Current Focus:** Optimizing server-side rendering performance and state synchronization.
 - 🌱 **Deepening Knowledge:** Advanced system design, distributed databases, and cloud-native scaling.
@@ -18,7 +19,7 @@ I am a results-driven Software Engineer specializing in building highly performa
 
 ---
 
-## 🛠️ Technical Arsenal
+
 
 ### **Frontend Engineering**
 <p align="left">
@@ -51,12 +52,12 @@ I am a results-driven Software Engineer specializing in building highly performa
 Here is a live look at my repository metrics and coding ecosystems:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ELIASFERHAN1992&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIASFERHAN1992&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELIASFERHAN1992&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -66,11 +67,20 @@ Here is a live look at my repository metrics and coding ecosystems:
 ### 🌟 **Enterprise Digital Clearance Management System**
 > A secure, high-throughput digital orchestration platform built to automate multi-department university graduation and separation clearances.
 - **Architecture:** Next.js (App Router), TypeScript, Prisma ORM, and PostgreSQL.
-- **Key Achievements:** Eliminated manual processing delays by migrating horizontal department verification into parallel atomic workflows. Secured data layers using precise relational constraint schemas in 3NF.
+- **Key Achievements:** Eliminated manual processing delays by migrating horizontal department verification into parallel atomic workflows. Secured data layers using precise relational constraint schemas and role-based access controls.
 
 ### 🛒 **Mobile E-Commerce Distribution Platform**
 > A lightweight, highly responsive mobile-first web storefront targeted at optimizing local supply chain checkouts.
 - **Key Achievements:** Spearheaded front-end asset optimization, cutting time-to-interactive down substantially using Tailwind utility primitives and modern progressive web rendering tricks.
+
+---
+
+## 📞 Contact & Social Links
+
+- **LinkedIn:** [Elias Ferhan](https://www.linkedin.com/in/elias-ferhan-776091300/)
+- **GitHub:** [@ELIASFERHAN1992](https://github.com/ELIASFERHAN1992)
+- **Email:** eliasferhan1992@gmail.com
+- **Portfolio:** [your-portfolio.dev](https://portfolio-eliasferhan1992.vercel.app/)
 
 ---
 
