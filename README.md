@@ -45,22 +45,6 @@ I am a results-driven Full-Stack Software Engineer specializing in building high
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
----
-
-## 📊 Git Analytics & Performance
-
-Here is a live look at my repository metrics and coding ecosystems:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELIASFERHAN1992&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIASFERHAN1992&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELIASFERHAN1992&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 ## 📂 Featured Capstone Projects
 
